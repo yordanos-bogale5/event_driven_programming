@@ -1,0 +1,15 @@
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\bin\Debug\SE_Mekele.exe.config
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.csprojResolveAssemblyReference.cache
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.Form1.resources
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.Properties.Resources.resources
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.csproj.GenerateResource.Cache
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\bin\Debug\SE_Mekele.exe
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\bin\Debug\SE_Mekele.pdb
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.exe
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.pdb
+c:\users\adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.Fibonacci.resources
+C:\Users\Adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.Case_Convertor.resources
+C:\Users\Adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.DisplayForm.resources
+C:\Users\Adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.FileHadle.resources
+C:\Users\Adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.frmViewForm.resources
+C:\Users\Adis\documents\visual studio 2015\Projects\SE_Mekele\SE_Mekele\obj\Debug\SE_Mekele.PatientRegistration_File.resources
